@@ -45,9 +45,8 @@ I like solving problems on the backend and building things that actually work.
 
 ## 📊 Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeFrEyThOmAs\&show_icons=true\&hide_border=true\&theme=default)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeFrEyThOmAs\&theme=github-light\&hide_border=true)
 
----
 
 ## 📫 Reach me
 
